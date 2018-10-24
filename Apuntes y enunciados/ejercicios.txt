@@ -1,0 +1,11 @@
+
+9 Crea un programa donde se introduzcan 30 elementos de una matriz unidimensional, multiplicar por dos sus valores y luego imprimirlos en el orden introducido
+
+10 Crea un programa donde se introduzcan 30 elementos de una matriz unidimensional y luego mostrar por pantalla. La suma los elementos. b. El numero de elementos mayores de 10.
+
+11 Crea un programa donde se cargue un vector con 100 numeros aleatorios, luego introducir un número A y buscar si A se encuentra  y si se aparece, cuantas veces .
+
+12 Programa un algoritmo que introducidas dos palabras por teclado las concatene. Hacer dos versiones del programa.
+
+13 Programa un algoritmo que introducido un texto por teclado cuente el numero de vocales presentes e imprima por pantalla dicha cantidad.
+(utiliza la ayuda )
